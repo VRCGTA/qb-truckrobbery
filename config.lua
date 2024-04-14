@@ -18,5 +18,5 @@ Config.Payout = {
     Max = 450 -- Max reward payout
 }
 Config.ActivationCost = 500 -- how much is the activation of the mission (clean from the bank)
-Config.Currency = "$"
+Config.Currency = "𝕍"
 Config.ResetTimer = 600 -- cooldown for mission in seconds
